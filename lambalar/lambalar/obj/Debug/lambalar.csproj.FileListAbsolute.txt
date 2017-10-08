@@ -1,0 +1,8 @@
+C:\Users\Yasin\documents\visual studio 2015\Projects\lambalar\lambalar\obj\Debug\lambalar.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\documents\visual studio 2015\Projects\lambalar\lambalar\obj\Debug\lambalar.Form1.resources
+C:\Users\Yasin\documents\visual studio 2015\Projects\lambalar\lambalar\obj\Debug\lambalar.Properties.Resources.resources
+C:\Users\Yasin\documents\visual studio 2015\Projects\lambalar\lambalar\obj\Debug\lambalar.csproj.GenerateResource.Cache
+C:\Users\Yasin\documents\visual studio 2015\Projects\lambalar\lambalar\bin\Debug\lambalar.exe
+C:\Users\Yasin\documents\visual studio 2015\Projects\lambalar\lambalar\bin\Debug\lambalar.pdb
+C:\Users\Yasin\documents\visual studio 2015\Projects\lambalar\lambalar\obj\Debug\lambalar.exe
+C:\Users\Yasin\documents\visual studio 2015\Projects\lambalar\lambalar\obj\Debug\lambalar.pdb

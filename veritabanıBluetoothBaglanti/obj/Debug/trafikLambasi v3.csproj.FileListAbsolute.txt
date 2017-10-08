@@ -1,0 +1,10 @@
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\bin\Debug\trafikLambasi v3.exe
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\bin\Debug\trafikLambasi v3.pdb
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\bin\Debug\InTheHand.Net.Personal.dll
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\bin\Debug\InTheHand.Net.Personal.xml
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\obj\Debug\trafikLambasi v3.csprojResolveAssemblyReference.cache
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\obj\Debug\trafikLambasi_v3.Form1.resources
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\obj\Debug\trafikLambasi_v3.Properties.Resources.resources
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\obj\Debug\trafikLambasi v3.csproj.GenerateResource.Cache
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\obj\Debug\trafikLambasi v3.exe
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasi v3\trafikLambasi v3\obj\Debug\trafikLambasi v3.pdb

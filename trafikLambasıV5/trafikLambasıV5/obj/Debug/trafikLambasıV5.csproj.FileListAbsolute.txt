@@ -1,0 +1,10 @@
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\bin\Debug\trafikLambasıV5.exe
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\bin\Debug\trafikLambasıV5.pdb
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\obj\Debug\trafikLambasıV5.csprojResolveAssemblyReference.cache
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\obj\Debug\trafikLambasıV5.Form1.resources
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\obj\Debug\trafikLambasıV5.Properties.Resources.resources
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\obj\Debug\trafikLambasıV5.csproj.GenerateResource.Cache
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\obj\Debug\trafikLambasıV5.exe
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\obj\Debug\trafikLambasıV5.pdb
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\bin\Debug\araba.png
+c:\users\yasin\documents\visual studio 2015\Projects\trafikLambasıV5\trafikLambasıV5\bin\Debug\arabayan.png
